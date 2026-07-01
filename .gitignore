@@ -21,3 +21,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Generated classpath helper for the Spring exercise
+Week2/Spring_Core_Maven/cp.txt
